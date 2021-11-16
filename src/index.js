@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 function App() {
-  return <div className="App">aaa</div>;
+  return <div className="App">bbb</div>;
 }
 
 const rootElement = document.getElementById("root");
